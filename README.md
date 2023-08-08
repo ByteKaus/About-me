@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaustiel
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning about security information and penetration testing.
-- 💞️ I’m looking to collaborate on small projects since I think I newbie, may in the future with more experience I could collaborate in something more bigger.
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
